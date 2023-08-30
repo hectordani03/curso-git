@@ -1,0 +1,116 @@
+commit ba861d952f1c7258125fa79c10f6c07a4a9a5951
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 20:45:59 2023 -0600
+
+    Agregando parrafo
+
+commit 4078d6e033745445759a146b2d38218e604c151f
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 20:44:59 2023 -0600
+
+    Agregando parrafo
+
+commit b0d3248e33c95041c24ff8187075fb1ec54e71d6
+Merge: cefb381 360508c
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 20:42:52 2023 -0600
+
+    RTesolviendo conflicto en estaciones deel año y fechas  e inicio
+
+commit cefb3812f3f601c80cff8ea2bbf4a4932dfa7275
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 18:48:50 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 360508cc1878433b063e28d0dca6f09fba5e644d
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 18:48:50 2023 -0600
+
+    Agregando las estaciones del año
+
+commit c9f86ad0510762dc696f6bc62998f7ff83d65ac0
+Merge: ca5bab2 b73f21d
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 18:44:19 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit b73f21dc5c799ef9d25190ef69262d6a4b9a1a60
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 18:39:03 2023 -0600
+
+    Agregano index.js al index.html
+
+commit ca5bab2ec51a0f411edb44d2088c267f50c92a52
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 18:37:14 2023 -0600
+
+    Agregano style css al inex html
+
+commit a2e0556c81847336ec250d7fe02153c060faa8f9
+Merge: 410a19d d467fe0
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 17:54:40 2023 -0600
+
+    Merge branch 'js'
+
+commit d467fe03fa79c90d67d6f94ba62107209b53f466
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 17:50:58 2023 -0600
+
+    Rama de Js
+
+commit 410a19d38d8b8c8e41e2aace9fd7a8a34dd332bb
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 17:45:00 2023 -0600
+
+    Creando style css
+
+commit 075801a5b5330600de610d1e11e7c799b96b7f55
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 17:40:58 2023 -0600
+
+    Creando index html
+
+commit 1408342979c043be500b8cca713677126e1bb585
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 16:43:57 2023 -0600
+
+    Ignorando archivos.exe
+
+commit e3bece81c042dde99bb104c06df6e25eaa5ad2ea
+Author: hectordani03 <125483096+hectordani03@users.noreply.github.com>
+Date:   Tue Aug 1 13:52:00 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 8c791276daeb4c180cf219db25a25f3d7a99e56a
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 13:46:30 2023 -0600
+
+    agregando mas contenido al README
+
+commit 35d61bafbf60742c41a56eb0e5e78005c97767b1
+Author: hectordani03 <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 13:43:04 2023 -0600
+
+    nueva prueba
+
+commit 0d8e78826225a4924f0b336968394b3dd4a6a12f
+Author: Hector Martinez <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 12:58:45 2023 -0600
+
+    prueba 1 README
+
+commit 44b795abef2c1487dea76383122255a5dae714dd
+Author: Hector Martinez <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 12:28:55 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit 85bccccbe22546fa8d76be28f6251882b1df61cc
+Author: Hector Martinez <hectordaniel010203@gmail.com>
+Date:   Tue Aug 1 12:06:36 2023 -0600
+
+    Primer commit
